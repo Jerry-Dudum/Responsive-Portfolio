@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../Images/concrete.png");
+    height: 100%;
+    margin: 0 auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.bio {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+.header-bg {
+    width: 100%;
+    height: 100px;
+    background: #ffffff;
+    border-bottom: #cccccc 5px solid;
+}
+
+#name {
+    text-align:center;
+    float:left;
+    color: #ffffff;
+    background: #4aaaa5;
+    height: 95px;
+    padding: 30px 40px 0px;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.navigate {
+    float: right;
+    background-color: #ffffff;
+    color: #777777;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.dash {
+    float: right;
+    margin-top: 20px;
+}
+
+.footer {
+    height: 100px;
+    padding-top: 45px;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background: #666666;
+    border-top: #4aaaa5 8px solid;
+}
+
+#rocky {
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-right: 35px;
+}
+
+#heading {
+    color: #4aaaa5;
+}
+
+.summary {
+    line-height: 2;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+section {
+    padding: 40px 40px 20px;
+    margin: 30px 0px;
+    background: #ffffff;
+    border: #dddddd 1px solid;
+}
+
+nav {
+    float: right;
+    margin-top: 15px;
+}
+
+.content {
+    min-height: calc(100vh - 100px);
+}
+
+.message {
+    height: 200px;
+    width: 100%;
+    column-span: 100%;
+}
+
+.data {
+    width: 100%;
+}
+
+#submit {
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 36px;
+    padding: 5px;
+}
+
+.alignLeft {
+    float: left;
+    clear: left;
+    position: relative;
+    margin-bottom: 20px;
+}
+.alignRight {
+    float: right;
+    margin-right: 100px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.photo {
+    width: 300px;
+    height: 300px;
+
+}
+
+.imgName {
+    text-align: center;
+    color: #ffffff;
+    background: #4aaaa5;
+    padding: 10px;
+    font-size: 30px;
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 30px;
+}
