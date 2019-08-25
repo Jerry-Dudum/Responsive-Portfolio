@@ -155,13 +155,35 @@ nav {
 }
 
 @media screen and (max-width: 980px) {
+    .header {
+        width: 100%;
+    }
 
+    .bio {
+        width: 75%;
+    }
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 768px) {
+    .content {
+        width: auto;
+    }
 
+    .bio {
+        width: 75%;
+    }
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 640px) {
+    .header {
+        position: static;
+    }
 
+    #name {
+        width: 100%;
+    }
+
+    nav {
+        width: 100%;
+    }
 }
