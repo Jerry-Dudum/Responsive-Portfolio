@@ -2,13 +2,13 @@
 
 ## Site Pictures
 
-![Image](assets/Images/Portfolio1.png)
-![Image](assets/Images/Portfolio2.png)
-![Image](assets/Images/Portfolio3.png)
+![Image](assets/images/Portfolio1.png)
+![Image](assets/images/Portfolio2.png)
+![Image](assets/images/Portfolio3.png)
 
-![Image](assets/Images/Portfolio4.png)
-![Image](assets/Images/Porfolio5.png)
-![Image](assets/Images/Portfolio6.png)
+![Image](assets/images/Portfolio4.png)
+![Image](assets/images/Porfolio5.png)
+![Image](assets/images/Portfolio6.png)
 
 ## Technologies Used
 - HTML 
